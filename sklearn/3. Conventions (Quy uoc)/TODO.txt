@@ -1,0 +1,1 @@
+Multiclass vs. multilabel fitting (link tieng anh: http://scikit-learn.org/stable/tutorial/basic/tutorial.html#multiclass-vs-multilabel-fitting)
